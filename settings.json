@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "KALA_SAYA_SMP.aternos.me",
+    "port": 47556,
     "version": "1.20.1",
     "try-creative": false
   },
